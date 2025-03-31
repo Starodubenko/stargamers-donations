@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.tsx'
 import { TonConnectUIProvider } from '@tonconnect/ui-react'
 
-const manifestUrl = 'https://github.com/ndatg/tonconnect-manifest-example/blob/main/tonconnect-manifest.json';
+const manifestUrl = 'https://starodubenko.github.io/stargamers-donations/tonconnect-manifest.json';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
